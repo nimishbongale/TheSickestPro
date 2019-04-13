@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SickProFinal</string>
+    <string-array name="array_technology">
+        <item>Manipal Hospitals</item>
+        <item>CMH Hospitals</item>
+        <item>Ramaiah Hospital</item>
+        <item>Columbia Asia</item>
+        <item>Modi Hospitals</item>
+        <item>Fortis Hospitals</item>
+        <item>KC General</item>
+    </string-array>
+    <string-array name="arrtech">
+        <item>Dr. Manjunath RS, General Physician MBBS</item>
+        <item>Dr. Kiran, MD, Paediatrician</item>
+        <item>Dr. Rajaram, DDS, Dermatologist</item>
+        <item>Dr. Nagraj, MBBS, Gynaecologist</item>
+        <item>Dr. Akki, MBBS, Neurologist</item>
+    </string-array>
+    <color name="black">#000000</color>
+</resources>
